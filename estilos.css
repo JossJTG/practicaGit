@@ -1,0 +1,17 @@
+#boton{
+    background-color: aquamarine;
+    color: black;
+    width: 100px;
+    padding: 20px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+#boton02{
+    background-color: grey;
+    color: black;
+    width: 100px;
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
